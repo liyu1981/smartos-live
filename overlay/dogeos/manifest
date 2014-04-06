@@ -1,0 +1,4 @@
+d dogeos 0755 root root 
+f dogeos/manifest 0644 root root 
+d dogeos/dogeos 0755 root root 
+f dogeos/dogeos/version.md 0644 root root 
